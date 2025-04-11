@@ -10,11 +10,11 @@ Caracteristicas
 ---
 Tecnologias utilizadas
 
----
+
 1. HTML 5
 2. JavaScript
 3. Bootstrap 5
-
+---
 > Vista previa del index.html
 ![Index](https://raw.githubusercontent.com/HectorVal2196/CH53_promesas/refs/heads/main/images/Ejercicio%20productos.jpg)
 
